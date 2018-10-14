@@ -1,0 +1,127 @@
+/***********************************************/
+/* HTML tag styles                             */
+/***********************************************/
+body{
+	font-family: Verdana;
+	color: #000000;
+	line-height: 1.166;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(http://10.21.2.2/itk363/team2/jamuniversity/_view/images/back.png);
+	background-position: center;
+	margin-left: 10%;
+	width: 80%;
+}
+
+h2 {
+font-family: Verdana;
+}
+
+h3 {
+font: Verdana;
+}
+
+i {
+color: #000000;
+font: Verdana;
+font-style: normal;
+}
+
+div{
+	font-family: Verdana;
+	color: #000000;
+}
+
+legend{
+color: #000000;
+}
+
+
+/******* hyperlink and anchor tag styles *******/
+
+a:link, a:visited{
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	background: #8B0000;
+	color: #FFFFFF;
+}
+
+/******* Div styles *******/
+
+
+#Bck {
+	background-color: #8B0000;
+	color: #FFFFFF;
+	width: auto;
+}
+
+#register{
+	margin-left: 15%;
+	margin-right: 15%;
+  	background-color: #FFFFFF;
+  	border-spacing: 4px;
+  	border-color: #000000;
+  	border-width: medium;
+	font-size: 12px;
+	
+	
+}
+
+
+.style1 { 
+	color: #000000;
+	
+}
+
+.style2 {color: #1401BE} 
+
+.style3 {
+	color: #000000;
+	font-size: small;
+
+}
+
+.style11 {font-size: 8pt}
+
+.style12 {
+	font-family: Verdana;
+	font-size: 7pt;
+	
+}
+
+/******* Table styles *******/
+
+#tl {
+	position: absolute;
+	top: -1px;
+	left: -1px;
+	margin: 0px;
+	padding: 0px;
+	z-index: 100;
+}
+
+#th {
+font-family: Verdana;
+color: #000000;
+}
+
+#tr {
+	position: absolute;
+	top: -1px;
+	right: -1px;
+	margin: 0px;
+	padding: 0px;
+	z-index: 100;
+}
+
+#td {
+color: #000000;
+font-family: Verdana;
+
+}
+
+/********************* end **********************/
